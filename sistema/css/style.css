@@ -1,0 +1,50 @@
+.tabela{
+	margin-right: 40px; 
+	border:solid 1px #a8a8a8; 
+	padding:20px;
+	font-size:14px;
+}
+
+.tabela a{
+	text-decoration: none;
+}
+
+
+@media only screen and (max-width: 700px) {
+.esc{
+	display:none; 
+}
+}
+
+
+.textocinzaescuro{
+	color:#828282;
+}
+
+.bordacardsede{
+	border-left:solid 4px #b54343;
+}
+
+.bordacard{
+	border-left:solid 4px #262396;
+}
+
+.bordacardtarefa{
+	border-left:solid 4px #4c8cc2;
+}
+
+.titulocard{
+	font-size:13px;
+}
+
+.subtitulocard{
+	font-size:11px;
+}
+
+.totaiscard{
+	font-size:11px;
+}
+
+.linkcard a{
+	text-decoration: none;
+}

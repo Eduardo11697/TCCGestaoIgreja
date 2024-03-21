@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^igreja(.*)$ igreja.php?nome=$1 [L]
+RewriteRule ^evento-(.*)$ evento.php?evento=$1 [L]
+RewriteRule ^membro(.*)$ membro.php [L]

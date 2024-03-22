@@ -28,6 +28,7 @@ require_once("cabecalho.php");
 						$url = $res[$i]['url'];
 						$video = $res[$i]['video'];
 
+						
 
 						if($video != ''){
 							$classe_video = '';

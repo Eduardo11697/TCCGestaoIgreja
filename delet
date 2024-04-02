@@ -1,0 +1,60 @@
+[33mcommit 3eb31781019c8fe17d39b7b083ba41edf4e19624[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Eduardo <eduardo2016877@gmail.com>
+Date:   Mon Apr 1 16:56:16 2024 -0400
+
+    Novo Repositorio
+
+[33mcommit 78d4c88d8bd277478213c460c4014070b8cb1e15[m
+Author: Eduardo <eduardo2016877@gmail.com>
+Date:   Mon Apr 1 16:54:56 2024 -0400
+
+    Versão 1.0
+
+[33mcommit 908c8f8436a24a0a156dff0cd611c211e5250edf[m
+Merge: a7cde49 4466cc4
+Author: Eduardo <eduardo2016877@gmail.com>
+Date:   Mon Apr 1 16:52:18 2024 -0400
+
+    Merge branch 'main' of https://github.com/Eduardo11697/TCCGestaoIgreja
+
+[33mcommit a7cde496be54e6814b3450b32fa4c1397115aabc[m
+Author: Eduardo <eduardo2016877@gmail.com>
+Date:   Mon Apr 1 16:51:54 2024 -0400
+
+    1.2 Arquivos com Erros
+
+[33mcommit 4466cc44ae64963919085f17a10b3f4a8cee3029[m
+Author: EDU.LUKE <63866821+Eduardo11697@users.noreply.github.com>
+Date:   Mon Apr 1 15:13:21 2024 -0400
+
+    Delete sistema/img directory
+
+[33mcommit 13a26028072be4b6707b87c65f62ee0c0515f930[m
+Author: EDU.LUKE <63866821+Eduardo11697@users.noreply.github.com>
+Date:   Mon Apr 1 15:11:27 2024 -0400
+
+    Delete img directory
+
+[33mcommit 4725ebc84a4c17de339c603d1f57a23da80a952b[m
+Author: EDU.LUKE <63866821+Eduardo11697@users.noreply.github.com>
+Date:   Mon Apr 1 15:11:08 2024 -0400
+
+    Delete images directory
+
+[33mcommit f3b980bb480ffcb4cd262eed410b256042a880fd[m
+Author: cipher <eduardo2016877@gmail.com>
+Date:   Thu Mar 21 22:09:16 2024 -0400
+
+    1.1
+
+[33mcommit dd263c48e322be43b38234f467b2e84386b47bb0[m
+Author: cipher <eduardo2016877@gmail.com>
+Date:   Thu Mar 21 21:49:29 2024 -0400
+
+    1.0
+
+[33mcommit 98d3c0cc11018d6c35d7a9459d58e37bc278f2ea[m
+Author: cipher <eduardo2016877@gmail.com>
+Date:   Thu Mar 21 17:58:10 2024 -0400
+
+    1.0

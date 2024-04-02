@@ -69,13 +69,8 @@ if($id == "" || $id == 0){
 	$query->bindValue(":telefone", "$telefone");
 	$query->bindValue(":endereco", "$endereco");
 	$query->execute();
-
-	
 }
 
-
-
 echo 'Salvo com Sucesso';
-
 
 ?>
